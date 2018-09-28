@@ -1,3 +1,3 @@
 ## Welcmome to GitHub Pages
 
-You can use the [editor on Github](https://fanhy2114.github.io/) to maintain and preview the content for your website.
+You can use the [editor on Github](https://github.com/fanhy2114.github.io/Technical_Books/edit/master/README.md) to maintain and preview the content for your website.
